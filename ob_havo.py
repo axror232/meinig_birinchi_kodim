@@ -1,1 +1,3 @@
-gradus = 20
+
+gradus = 30
+
